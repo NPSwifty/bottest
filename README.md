@@ -1,0 +1,2 @@
+# bottest
+Testing a bot.
