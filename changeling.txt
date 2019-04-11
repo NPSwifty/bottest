@@ -1,0 +1,40 @@
+Changelog:
+V.1.0.0 05APR19
+Added:
+  - giphy support
+   [] API for searching Giphy.com
+  - kick command
+   !kick memberToBeKicked
+   [] Kicks members, only usable by mods and admins
+  - cat command
+   [] Provide your digital cat with attention!
+  - dog command
+   [] Make your digital dog happy!
+  - animal command
+   !animal TypeOfAnimal
+   [] Destress with a GIF of an animal!
+  - pi command
+   [] Get an estimate of Pi
+  - ping command
+   [] Find out how much you are overcharged for bad internet.
+  - say command
+   !say Message
+   [] Repeats your message in an authoritative voice.
+  - findset command
+   !findset setNumber
+   [] Links to the BL listing for the set
+   [] Posts an image of the set
+  - Paypal fee calculator
+   !paypal total
+   [] Get a quick calculation for PayPal fees
+   [] US transactions only
+  - Added magic eight ball
+   !m8b question
+   [] A question is required
+   [] Added fancy formatting
+  - Added Rank Up command
+   !ru
+   [] Tells the chat about fancy new features!
+  - Added an RNG
+   !rand min max
+   [] Get a random number between two integers.
