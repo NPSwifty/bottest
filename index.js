@@ -276,7 +276,7 @@ client.on("message", async message => {
 
   if (command === "cl"){
     message.member.send("Here is the changelog for version " + config.version);
-    message.member.sendFile("./changelog.txt");
+    message.member.sendFile("changelog.txt");
     message.reply("I sent you a DM with the info! :grin:");
   }
 
